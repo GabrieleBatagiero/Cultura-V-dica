@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(247, 220, 201);
+}
+
+div.footer{
+    width:30;
+    height:24;
+    
+}
+
+h2{
+    color: LightSeaGreen;
+    text-align: center;
+}
+
+h3{ 
+    color: rgb(8, 99, 99);
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+
+div.figure{
+    color: black;
+    float: left;
+}
+
+p{
+    text-align: center;
+}
+
+h5{
+    text-align: center; 
+
+}
+
+img#fotos{
+        width: 400px;
+        height: 400px;
+        float: left;
+}
